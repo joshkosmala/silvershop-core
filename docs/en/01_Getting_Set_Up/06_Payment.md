@@ -10,6 +10,6 @@ There are many [gateways](https://github.com/thephpleague/omnipay#payment-gatewa
 
 The best way to find additional Omnipay payment drivers is perhaps to do a search on Packagist: https://packagist.org/search/?q=omnipay
 
+Here is a tutorial for [setting up Manual payments via Omnipay](https://github.com/silverstripe/silverstripe-omnipay/blob/master/docs/en/ManualPaymentSetup.md).
+
 Here is a tutorial for [setting up PayPal via Omnipay](https://github.com/silverstripe/silverstripe-omnipay/blob/master/docs/en/PayPalExpressSetup.md).
-
-
